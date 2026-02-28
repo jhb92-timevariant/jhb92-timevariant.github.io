@@ -1,0 +1,6 @@
+﻿title: "HBJ Research Notes"
+description: "SDE · Optimal Stopping · Econometrics"
+theme: minima
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
