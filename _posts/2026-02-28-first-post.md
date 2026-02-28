@@ -11,3 +11,7 @@ title: "첫 포스팅: 이 블로그의 목적"
 $$
 dX_t=\mu X_t\,dt+\sigma X_t\,dW_t.
 $$
+
+$$
+\int_0^1 x^2\,dx = \frac{1}{3}
+$$
