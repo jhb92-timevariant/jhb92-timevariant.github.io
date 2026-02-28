@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "첫 포스팅: 이 블로그의 목적"
 ---
@@ -7,6 +7,7 @@ title: "첫 포스팅: 이 블로그의 목적"
 
 ## 작은 예시
 
-dir
+
+$$
 dX_t=\mu X_t\,dt+\sigma X_t\,dW_t.
-dir
+$$
